@@ -2,7 +2,7 @@
 
 This is the information of vulnerabilities founded by NISL bug detection tool.
 
-**March 2021** - The repository opened by Nisl Security Group.
+**March 2021** - The repository opened by NISL Security Group.
 
 ## Vulnerabilities List
 
