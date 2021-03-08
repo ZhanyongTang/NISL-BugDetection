@@ -1,4 +1,4 @@
-# FUNDED
+# NISL Bug Detection Tool
 
 This is the list of vulnerabilities founded by NISL bug detection tool.
 
