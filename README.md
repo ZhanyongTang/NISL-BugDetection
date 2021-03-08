@@ -13,4 +13,5 @@ This is the information of vulnerabilities founded by NISL bug detection tool.
 
 ## Contact
 Rongze Xu - xxurongze@gmail.com
+
 Huanting Wang - wanghuanting@stumail.nwu.edu.cn
