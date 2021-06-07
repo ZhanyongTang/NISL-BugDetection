@@ -21,6 +21,7 @@ This is the information of vulnerabilities founded by NISL bug detection tool.
 
 > Note:
 > \* Indicates that newly discovered this vulnerability has CVE numbers.
+> 
 > !  Indicates that this vulnerability is not the first time we have discovered.
 
 
