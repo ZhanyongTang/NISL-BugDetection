@@ -7,7 +7,7 @@ This is the information of vulnerabilities founded by NISL bug detection tool.
 ## Vulnerabilities List
 
 
-|NO. |     Project     |  Version |          Issue link           |            Poc           |   Contributor   |    Adviser    |    IssueState    |   CVEState   |   Date   |
+|NO. |     Project     |  Version |          Issue link           |            Poc           |   Contributor   |    Supervisor    |    IssueState    |   CVEState   |   Date   |
 | :----: | :-------------: | :--------: |:-----------------------------: | :----------------------: | :------: | :--------: | :------------: | :------------: |:-------:|
 |1| ok-file-formats  | 01be744 |[heap-buffer-overflow](https://github.com/brackeen/ok-file-formats/issues/11) | [heap-buffer-overflow-1](https://github.com/NISL-SecurityGroup/NISL-BugDetection/blob/main/project/ok-file-formats/heap-buffer-overflow-1/heap-buffer-overflow-1.jpg)  |  xxrz   |  zytang  |  Ensure  |  -  | 05/03/2021  |
 |2| ok-file-formats | 97f78ca | [heap-buffer-overflow](https://github.com/brackeen/ok-file-formats/issues/12) | [heap-buffer-overflow-2](https://github.com/NISL-SecurityGroup/NISL-BugDetection/blob/main/project/ok-file-formats/heap-buffer-overflow-2/heap-buffer-overflow-2.jpg)  |  wjl / xxrz   |  zytang  |   Ensure  | -  | 26/03/2021  |
