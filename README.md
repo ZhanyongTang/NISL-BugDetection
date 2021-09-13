@@ -36,7 +36,7 @@ This is the information of vulnerabilities founded by NISL bug detection tool.
 ## Contact
 Rongze Xu - xxurongze@gmail.com
 
-Jialing Wu - 2017118025@stumail.nwu.edu.cn
+Jialing Wu - wujialing@stumail.nwu.edu.cn
 
 Huanting Wang - wanghuanting@stumail.nwu.edu.cn
 
